@@ -1,2 +1,2 @@
 # Minesweeper made with my friend using raylib
-Minesweeper using raylibm small or rather no step for software industry but big step for me
+Minesweeper using raylibm. Everything in cpp. Code written by pilar4 sprites made by Raiti621
