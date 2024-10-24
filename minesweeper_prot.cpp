@@ -32,7 +32,7 @@ int main(){
     // table[2][2] = 1;
 
     int counter=0;
-
+    //It isn't worth automating it or at least I couldn't figure out better soultion faster that typing 8 if statments 
     for(int i=0;i<n;i++){
         for(int j=0;j<n;j++){
             if(table[i][j]!=9){
@@ -68,6 +68,6 @@ int main(){
         cout<<endl;
     }
 
-    cout<<endl<<"igor";
+    cout<<endl<<"test";
 
 }
