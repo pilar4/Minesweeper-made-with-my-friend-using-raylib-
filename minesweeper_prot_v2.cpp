@@ -46,7 +46,7 @@ int main(void)
     int random;
     int bomb = 0;
     const int n=10;
-    int table [n+1] [n+1];
+    char table [n+1] [n+1];
     for(int i=0;i<n;i++){
         for(int j=0;j<n;j++){
             random = rand() % 4;
